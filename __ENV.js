@@ -1,1 +1,1 @@
-window.__ENV = {"REACT_APP_KAI_API":"https://api.nsure.network/v1","REACT_APP_ZHAO_API":"https://api.nsure.network/claim","REACT_APP_CLAIM":"https://claim.nsure.network"};
+window.__ENV = {"REACT_APP_KAI_API":"https://napi.nsure.network/v1","REACT_APP_ZHAO_API":"https://api.nsure.network/claim","REACT_APP_CLAIM":"https://claim.nsure.network"};
