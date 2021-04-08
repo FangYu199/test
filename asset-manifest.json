@@ -3,8 +3,8 @@
     "static/js/0.fbd6113d.chunk.js": "./static/js/0.fbd6113d.chunk.js",
     "static/js/0.fbd6113d.chunk.js.map": "./static/js/0.fbd6113d.chunk.js.map",
     "main.css": "./static/css/main.ed6572ed.chunk.css",
-    "main.js": "./static/js/main.b6337691.chunk.js",
-    "main.js.map": "./static/js/main.b6337691.chunk.js.map",
+    "main.js": "./static/js/main.efa203db.chunk.js",
+    "main.js.map": "./static/js/main.efa203db.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e8fa999d.js",
     "runtime-main.js.map": "./static/js/runtime-main.e8fa999d.js.map",
     "static/js/3.7eb0d56f.chunk.js": "./static/js/3.7eb0d56f.chunk.js",
@@ -55,6 +55,7 @@
     "static/media/bg_dian.f48e0247.png": "./static/media/bg_dian.f48e0247.png",
     "static/media/button_img.524c722b.jpg": "./static/media/button_img.524c722b.jpg",
     "static/media/cover_modal_bg_top.7fd9b597.png": "./static/media/cover_modal_bg_top.7fd9b597.png",
+    "static/media/ledger.5375d7ac.svg": "./static/media/ledger.5375d7ac.svg",
     "static/media/logo.b3b62c9c.png": "./static/media/logo.b3b62c9c.png",
     "static/media/metamask-fox.7db94670.svg": "./static/media/metamask-fox.7db94670.svg",
     "static/media/index.css": "./static/media/pub_bg.00f14e4c.png",
@@ -65,6 +66,6 @@
     "static/js/runtime-main.e8fa999d.js",
     "static/js/3.7eb0d56f.chunk.js",
     "static/css/main.ed6572ed.chunk.css",
-    "static/js/main.b6337691.chunk.js"
+    "static/js/main.efa203db.chunk.js"
   ]
 }
